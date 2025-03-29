@@ -63,3 +63,6 @@ CLEANUP       () { ED && DECTCEM_T && DECAWM_T && CUP_R; kill -9 $$; }
 - https://github.com/dylanaraps/writing-a-tui-in-bash
 - https://unix.stackexchange.com/questions/288962/what-does-1049h-and-1h-ansi-escape-sequences-do
 - https://www.shellscript.sh/
+
+## License
+[CC-BY-SA-4.0](https://raw.githubusercontent.com/tobynetizen/linux-tui-library/refs/heads/master/LICENSE)
