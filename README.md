@@ -54,6 +54,10 @@ CLEANUP       () { ED && DECTCEM_T && DECAWM_T && CUP_R; kill -9 $$; }
 * Usage of `printf` over `echo -en` for compatibility.
 * `O_DPY` and `RE_DPY` are non-VT100 sequences.
 
+### Examples
+- [Option Selection](https://raw.githubusercontent.com/tobynetizen/linux-tui-library/refs/heads/master/option-selection.sh)
+- [Box Drawing](https://raw.githubusercontent.com/tobynetizen/linux-tui-library/refs/heads/master/box-drawing.sh)
+
 ### Resources
 - https://vt100.net/docs/vt510-rm/contents.html
 - https://github.com/dylanaraps/writing-a-tui-in-bash
